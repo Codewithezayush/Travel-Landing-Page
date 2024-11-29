@@ -19,7 +19,7 @@ body{
     width: 930px;
     height: 520px;
     box-shadow: 0 0 8px rgba(255,255,255,1);
-    background-image: url(asset/front.jpg);
+    background-image: url(https://github.com/Codewithezayush/Travel-Landing-Page/blob/main/front.jpg?raw=true);
     background-position: center;
     background-size: cover;
 }
